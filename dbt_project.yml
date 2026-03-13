@@ -2,7 +2,11 @@
 # Name your project! Project names should contain only lowercase characters
 # and underscores. A good package name should reflect your organization's
 # name or the intended use of these models
+<<<<<<< HEAD
 name: 'snow_dbt_snow'
+=======
+name: 'dbt_project_new'
+>>>>>>> b633fd19cce6826498ad81a5df7c93fe07ed327c
 version: '1.0.0'
 config-version: 2
 

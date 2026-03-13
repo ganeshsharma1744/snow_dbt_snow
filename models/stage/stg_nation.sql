@@ -1,0 +1,1 @@
+select * from IICS_SOURCE.SCR.SCR_NATION

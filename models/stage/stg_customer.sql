@@ -1,1 +1,1 @@
-select * from IICS_SOURCE.SCR.SCR_CUSTOMER
+select * from {{ source('IICS_SOURCE', 'SCR_CUSTOMER') }}

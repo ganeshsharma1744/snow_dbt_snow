@@ -1,0 +1,8 @@
+sources:
+  - name: IICS_SOURCE
+    database: IICS_SOURCE
+    schema: SCR
+    tables:
+      - name: SCR_CUSTOMER
+      - name: SCR_NATION
+  
